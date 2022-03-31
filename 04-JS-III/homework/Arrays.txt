@@ -1,0 +1,1 @@
+Un Arrray es una cadena de texto, basicamente es una variable el cual podes guardar mas de un dato y puede ser recorrida en posiciones.
